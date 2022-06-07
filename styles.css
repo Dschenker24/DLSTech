@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+h3 {
+    font-size: 44px;
+    line-height: 55px;
+    color: #121212;
+    font-weight: 600;
+}
+
+h6 {
+    font-size: 20px;
+    line-height: 32px;
+    color: #6c6c6c;
+    margin-top: 16px;
+    font-weight: normal;
+}
+
+/*==================== Nav ====================*/
+
+
+/*==================== Home ====================*/
+
+
+/*==================== Service ====================*/
+
+
+/*==================== Pricing ====================*/
+
+
+/*==================== Contact ====================*/
+
+
+/*==================== Footer ====================*/
